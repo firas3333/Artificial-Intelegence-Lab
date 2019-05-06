@@ -1,0 +1,155 @@
+
+puzzle #1
+moves:  CU,  EL,  PD,  PD,  XR,  AD,  OL,  OL,  CU,  OL,  BU,  XR,  XR,  XR, 
+Explored 748 states in 0.228101 seconds
+Solved in 8 moves
+puzzle #2
+moves:  OU,  OU,  AR,  AR,  BU,  CL,  CL,  PU,  PU,  PU,  AR,  OD,  OD,  OD,  XR,  BU,  BU,  BU,  XL,  OU,  OU,  OU,  AL,  PD,  PD,  PD,  AL,  AL,  AL,  PU,  OD,  OD,  OD,  XR,  XR,  PD,  XR, 
+Explored 387 states in 0.109750 seconds
+Solved in 23 moves
+puzzle #3
+moves:  OD,  OD,  OD,  XL,  AU,  AU,  AU,  XR,  OU,  OU,  OU,  RL,  QL,  QL,  BU,  RL,  QL,  PD,  PD,  PD,  XR,  XR,  AD,  BD,  XR,  AU, 
+Explored 302 states in 0.088640 seconds
+Solved in 18 moves
+puzzle #4
+moves:  EL,  AR,  EL,  EL,  GD,  PU,  FL,  RL,  GD,  OD,  OD,  FL,  FL,  QD,  QD,  OD,  XR,  XR,  XR,  GU, 
+Explored 770 states in 0.269312 seconds
+Solved in 8 moves
+puzzle #5
+moves:  RL,  RL,  OD,  OD,  XL,  PD,  EU,  EU,  EU,  XR,  PD,  DR,  FU,  RL,  QD,  XR,  XR,  XR, 
+Explored 198 states in 0.066028 seconds
+Solved in 12 moves
+puzzle #6
+moves:  IR,  FD,  DD,  CD,  BR,  BR,  EU,  XR,  AD,  AD,  AD,  XL,  ED,  BL,  FD,  DU,  IR,  BL,  CU,  BL,  EU,  XR,  XR,  XR,  IL,  FU, 
+Explored 1613 states in 0.785676 seconds
+Solved in 15 moves
+puzzle #7
+moves:  BL,  EU,  BL,  DU,  AL,  AL,  AL,  DU,  ED,  XR,  EU,  CU,  GL,  OD,  IU,  EU,  XR,  XR,  QL,  IU,  PL,  OD,  OD,  XR, 
+Explored 289 states in 0.095356 seconds
+Solved in 12 moves
+puzzle #8
+moves:  XR,  PU,  PU,  PU,  QL,  DD,  DD,  XR,  OD,  XR,  EL,  FU,  HU,  DD,  AD,  BL,  CL,  FU,  XR,  DU,  DU,  EL,  HD,  DD,  ER, 
+Explored 245 states in 0.066819 seconds
+Solved in 16 moves
+puzzle #9
+moves:  QR,  XR,  XR,  CL,  BD,  AR,  OU,  QR,  BD,  DR,  BD,  PU,  BD,  QL,  PU,  QL,  QL,  OD,  CR,  EU,  HL,  XL,  XL,  EU,  EU,  EU,  XR,  XR,  FL,  OD,  OD,  XR, 
+Explored 833 states in 0.360179 seconds
+Solved in 18 moves
+puzzle #10
+moves:  OD,  OD,  OD,  XL,  BU,  BU,  QL,  EU,  RR,  EU,  EU,  QR,  BD,  BD,  XR,  OU,  BD,  OU,  QL,  QL,  OU,  QL,  PD,  AR,  AR,  AR,  PU,  QR,  QR,  QR,  OD,  OD,  BU,  OD,  XL,  BU,  BU,  BU,  XR,  OU,  QL,  QL,  OU,  OU,  QL,  ED,  PD,  ED,  RL,  ED,  RL,  PD,  AL,  RL,  PD,  XR,  XR,  XR,  EU,  AR, 
+Explored 672 states in 0.226939 seconds
+Solved in 47 moves
+puzzle #11
+moves:  BR,  BR,  PU,  QL,  QL,  CU,  CU,  CU,  QR,  QR,  RR,  RR,  RR,  PD,  PD,  PD,  XR,  XR,  BL,  BL,  CU,  XR,  PU,  PU,  AD,  BL,  PU,  QL,  RL,  OD,  OD,  OD,  XR, 
+Explored 296 states in 0.103558 seconds
+Solved in 21 moves
+puzzle #12
+moves:  DD,  DD,  ED,  XL,  XL,  XL,  DU,  DU,  CD,  BR,  DU,  XR,  OU,  FR,  GU,  GU,  GU,  FL,  OD,  BR,  PU,  IL,  GU,  XR,  FL,  CD,  KL,  HL,  OD,  OD,  HL,  CD,  XR,  KL,  XR,  KR, 
+Explored 4363 states in 2.580108 seconds
+Solved in 24 moves
+puzzle #13
+moves:  DD,  ED,  XL,  XL,  BD,  AR,  AR,  AR,  BU,  XR,  XR,  DU,  EU,  DU,  EU,  HL,  HL,  IU,  DU,  EU,  JL,  XL,  XL,  IU,  JL,  JL,  JL,  ID,  XR,  XR,  FD,  AR,  XR,  GD,  BD,  ID,  BD,  XR,  BU,  CL,  BU,  AL,  CR,  IU, 
+Explored 7503 states in 4.623435 seconds
+Solved in 32 moves
+puzzle #14
+moves:  QD,  PU,  IR,  HR,  RD,  XL,  FU,  XL,  EU,  GL,  GL,  OD,  DR,  EU,  AL,  EU,  XR,  QU,  PD,  PD,  DR,  FU,  BR,  FU,  XR,  RU,  HL,  HL,  IL,  PD,  IL,  OD,  XR,  XR, 
+Explored 391 states in 0.198985 seconds
+Solved in 18 moves
+puzzle #15
+moves:  EL,  FD,  DD,  DD,  EL,  PD,  XL,  XL,  XL,  PU,  PU,  CD,  BR,  PU,  GR,  GR,  FD,  QL,  QL,  DD,  CD,  CD,  CD,  QR,  QR,  FU,  DU,  GL,  GL,  PD,  PD,  PD,  XR,  XR,  XR,  PU,  PU,  PU,  QL,  OD,  OD,  OD,  XR, 
+Explored 1583 states in 0.872621 seconds
+Solved in 28 moves
+puzzle #16
+moves:  BL,  FU,  FU,  PU,  PU,  GU,  RR,  RR,  RR,  QR,  GU,  QR,  QR,  DD,  XR,  DD,  AD,  ER,  AD,  AD,  AD,  EL,  DU,  XL,  DU,  BL,  DU,  OR,  OR,  DU,  XR,  RL,  RL,  ER,  AU,  RL,  AU,  QL,  GD,  QL,  QL,  PD,  PD,  XR,  FD,  XR,  XR, 
+Explored 1178 states in 0.574503 seconds
+Solved in 35 moves
+puzzle #17
+moves:  QR,  QR,  DR,  DR,  RR,  RR,  RR,  PD,  XL,  BD,  BD,  BD,  XR,  CR,  BD,  AR,  PU,  PU,  DR,  QL,  QL,  PU,  QL,  OD,  OD,  CR,  AR,  AR,  CR,  CR,  OU,  AR,  OU,  QR,  QR,  QR,  PD,  PD,  PD,  BU,  XL,  BU,  BU,  BU,  XR,  PU,  PU,  PU,  QL,  QL,  QL,  OD,  AL,  OD,  RL,  RL,  RL,  OD,  XR,  XR,  XR,  AR, 
+Explored 1372 states in 0.553335 seconds
+Solved in 52 moves
+puzzle #18
+moves:  DU,  DU,  XL,  XL,  AD,  BL,  JU,  FU,  OR,  OR,  EL,  EL,  AD,  AD,  XR,  XR,  DD,  AD,  ER,  ER,  BL,  DD,  DD,  DD,  EL,  EL,  AU,  XL,  XL,  AU,  AU,  BL,  AU,  XR,  XR,  ER,  ER,  DU,  DU,  OL,  OL,  FD,  XR,  XR, 
+Explored 413 states in 0.171757 seconds
+Solved in 32 moves
+puzzle #19
+moves:  CD,  BR,  BR,  DU,  DU,  EU,  EU,  FL,  FL,  FL,  ED,  XR,  CD,  PU,  XR,  XR,  DD,  PD,  OL,  OL,  QL,  PD,  XR,  OR,  OR,  DU, 
+Explored 754 states in 0.232048 seconds
+Solved in 17 moves
+puzzle #20
+moves:  QR,  QR,  PD,  PD,  XL,  BD,  BD,  BD,  AR,  XR,  PU,  PU,  BD,  PU,  QL,  QL,  QL,  OD,  AR,  AR,  AR,  OU,  QR,  QR,  QR,  PD,  PD,  PD,  BU,  XL,  BU,  BU,  BU,  XR,  PU,  RL,  RL,  RL,  PU,  PU,  QL,  QL,  QL,  OD,  OD,  OD,  XR,  XR,  AL,  XR,  AR, 
+Explored 250 states in 0.071325 seconds
+Solved in 44 moves
+puzzle #21
+moves:  GR,  BU,  XL,  AD,  AD,  AD,  XR,  OL,  OL,  BD,  OL,  PU,  EL,  HU,  QR,  QR,  AD,  DD,  EL,  EL,  PD,  FU,  HU,  GR,  PD,  CL,  CL,  CL,  PU,  PU,  ER,  ER,  HU,  ER,  PD,  PD,  AU,  QL,  DU,  QL,  QL,  PD,  XR,  XR,  AU,  CR,  DU,  DU,  HU,  XR,  DD,  CL,  DD,  AD, 
+Explored 4000 states in 2.655574 seconds
+Solved in 43 moves
+puzzle #22
+moves:  QL,  QL,  DD,  EL,  PD,  OR,  AU,  XL,  XL,  XL,  AD,  OL,  PU,  ER,  DU,  DU,  FL,  QR,  QR,  QR,  CD,  AD,  BL,  BL,  DU,  EL,  PD,  OR,  BL,  AU,  AU,  CU,  CU,  FL,  FL,  FL,  CD,  CD,  XR,  PD,  EL,  EL,  EL,  DD,  CU,  QL,  PD,  DD,  XR,  XR,  XR, 
+Explored 621 states in 0.251891 seconds
+Solved in 38 moves
+puzzle #23
+moves:  OR,  DD,  CU,  HR,  DD,  FL,  EU,  XL,  XL,  AD,  BL,  EU,  GU,  GU,  OR,  OR,  AD,  AD,  XR,  XR,  HR,  HR,  AD,  FR,  FR,  CD,  CD,  CD,  CD,  FL,  FL,  AU,  XL,  XL,  AU,  AU,  HR,  BL,  HL,  BL,  AU,  XR,  XR,  FR,  FR,  CU,  CU,  OL,  OL,  GD,  XR,  XR, 
+Explored 3706 states in 2.976636 seconds
+Solved in 40 moves
+puzzle #24
+moves:  XR,  CL,  OU,  EU,  QR,  QR,  PD,  XL,  XL,  BD,  BD,  BD,  XR,  XR,  DR,  PU,  PU,  AR,  BD,  QL,  PU,  QL,  QL,  GU,  XL,  GU,  GU,  QR,  QR,  QR,  PD,  PD,  HL,  BU,  PD,  FU,  AL,  DL,  FD,  XL,  BU,  BU,  BU,  XR,  QL,  OD,  QL,  ED,  CR,  IL,  HL,  ED,  GU,  XR,  XR,  BD,  OD,  AR,  OD,  XR,  AL,  BU, 
+Explored 3681 states in 2.574786 seconds
+Solved in 37 moves
+puzzle #25
+moves:  ED,  RL,  CD,  CD,  DU,  GU,  HR,  XR,  CD,  OL,  RR,  AD,  OL,  OL,  PU,  RR,  AD,  AD,  AD,  RL,  RL,  CU,  HL,  GD,  XL,  CU,  CU,  RR,  CU,  DU,  RR,  XR,  RR,  FU,  EU,  AU,  AU,  AU,  HL,  HL,  HL,  FD,  RL,  RL,  PD,  PD,  PD,  XR,  XR, 
+Explored 1403 states in 0.841740 seconds
+Solved in 25 moves
+puzzle #26
+moves:  PU,  PU,  ER,  OD,  OD,  CR,  CR,  DU,  BR,  BR,  DU,  XR,  AD,  AD,  AD,  XL,  DD,  DD,  CL,  CL,  CL,  DU,  BL,  BL,  OU,  OU,  EL,  EL,  EL,  AD,  EL,  DD,  CR,  OD,  OD,  CR,  CR,  DU,  BL,  DU,  XR,  ER,  AU,  AU,  AU,  EL,  FU,  RL,  RL,  RL,  OD,  XR,  XR,  DD,  PD,  PD,  PD,  XR,  OU,  CR,  OU,  OU,  DU,  OD,  OD,  CL,  OD, 
+Explored 1336 states in 0.625170 seconds
+Solved in 37 moves
+puzzle #27
+moves:  GR,  AD,  OR,  OR,  OR,  PU,  QU,  GR,  FR,  FR,  DD,  EL,  EL,  AD,  BL,  QU,  RR,  CD,  EL,  PD,  PD,  BL,  BL,  BL,  PU,  PU,  AU,  ER,  ER,  ER,  PD,  PD,  BR,  DU,  CU,  FL,  FL,  PD,  XR,  OL,  OL,  OL,  AU,  XR,  GL,  XR,  QU,  PU,  BL,  ER,  GL,  PU,  EL,  RL,  QD,  QD,  QD,  XR,  GR, 
+Explored 1100 states in 0.576583 seconds
+Solved in 43 moves
+puzzle #28
+moves:  BU,  ER,  GU,  RR,  CD,  DL,  GU,  FR,  GU,  GU,  FR,  RR,  AD,  AD,  XR,  XR,  EL,  HU,  RR,  AD,  DR,  CU,  BU,  CU,  CU,  DL,  AU,  BD,  RL,  RL,  HD,  ER,  RL,  XL,  GD,  OR,  CU,  XL,  AU,  AU,  FL,  FL,  FL,  GD,  GD,  GD,  EL,  HU,  EL,  PD,  PD,  OR,  PD,  OR,  AU,  XR,  XR,  XR,  HD,  AD,  OL,  OL,  BU,  XR,  OR, 
+Explored 1910 states in 1.272320 seconds
+Solved in 26 moves
+puzzle #29
+moves:  FR,  DR,  CR,  OD,  FL,  OD,  FR,  ER,  OD,  QU,  QU,  XL,  AD,  PL,  QU,  DR,  FR,  BD,  BD,  BD,  DL,  QD,  PR,  AU,  XR,  XR,  XR,  OU,  EL,  AD,  OU,  PL,  QU,  OU,  DR,  CL,  AD,  PL,  BU,  FL,  AD,  AD,  CR,  OD,  PL,  XL,  XL,  BU,  BU,  BU,  DL,  XR,  XR,  QD,  QD,  QD,  XR, 
+Explored 450 states in 0.168080 seconds
+Solved in 38 moves
+puzzle #29
+ no possible solution 
+Explored 16 states in 0.004193 seconds 
+puzzle #31
+moves:  BD,  PU,  CL,  PU,  PU,  FR,  KU,  HR,  HR,  HR,  HR,  KD,  FL,  DD,  EL,  PD,  CR,  OD,  OD,  OD,  XR,  BU,  AR,  XR,  XR,  OU,  AL,  OU,  OU,  ER,  DU,  DU,  DU,  EL,  OD,  OD,  OD,  XL,  XL,  BD,  CL,  AR,  PU,  DU,  FR,  KU,  HL,  XL,  OU,  OU,  HL,  HL,  HL,  KD,  FL,  PD,  CR,  PD,  PD,  BU,  OD,  OD,  XR,  XR,  XR,  DD,  OU,  AL,  OU,  XR,  OD,  AR,  DU, 
+Explored 394 states in 0.153950 seconds
+Solved in 43 moves
+puzzle #32
+moves:  PU,  PU,  BL,  PU,  ER,  GU,  QR,  ID,  DL,  GU,  GU,  EL,  EL,  HU,  HU,  HU,  ER,  FR,  FR,  RD,  RD,  QR,  QR,  RD,  XR,  FR,  ER,  GD,  GD,  XR,  BL,  HU,  XR,  RU,  RU,  AD,  BL,  BL,  RU,  QL,  DR,  QR,  IU,  IU,  IU,  DL,  RD,  RD,  BR,  BR,  AU,  RD,  XL,  XL,  GU,  IU,  FL,  XL,  RU,  RU,  FL,  FL,  FL,  GD,  RD,  RD,  XR,  XR,  XR,  RU,  ID,  QL,  QL,  QL,  GD,  EL,  PD,  PD,  PD,  XR,  RU,  FR,  AD,  IU,  AU,  FL,  RD, 
+Explored 1372 states in 0.903397 seconds
+Solved in 43 moves
+puzzle #33
+moves:  XR,  RL,  CU,  HR,  DD,  QR,  PU,  QR,  QR,  AD,  EU,  AD,  AD,  XL,  EU,  EU,  IR,  AD,  RL,  QL,  QL,  QL,  DU,  RL,  BU,  DU,  FL,  FL,  FL,  DD,  BD,  RR,  DD,  QR,  RR,  AU,  IL,  PD,  RR,  EU,  XR,  QR,  AU,  AU,  AU,  FL,  XL,  ED,  IR,  RL,  IL,  PU,  QR,  ED,  ED,  XR,  AD,  RL,  CU,  RL,  BU,  XR,  XR,  EU,  EU,  QL,  PD,  PD,  QL,  QL,  DU,  HL,  PD,  IR,  XR,  IL, 
+Explored 1948 states in 1.234817 seconds
+Solved in 40 moves
+puzzle #34
+moves:  FU,  PD,  FU,  GR,  KD,  QL,  AR,  BU,  EU,  EU,  DR,  DR,  DR,  ED,  BD,  AL,  ED,  QR,  FU,  QR,  PU,  QR,  KU,  GL,  OD,  OD,  OD,  XR,  KU,  KU,  KU,  XL,  OU,  OU,  OU,  QL,  PD,  AR,  BU,  QL,  QL,  EU,  EU,  DL,  DL,  DL,  DL,  ED,  ED,  BD,  QR,  AL,  PU,  QR,  QR,  OD,  AL,  FU,  AL,  BU,  OD,  OD,  XR,  XR,  XR,  OU,  OU,  KD,  AL,  OU,  QL,  PD,  PD,  PD,  GR,  XR,  GL, 
+Explored 2070 states in 1.277192 seconds
+Solved in 33 moves
+puzzle #34
+ no possible solution 
+Explored 757 states in 0.421909 seconds 
+puzzle #36
+moves:  XR,  GR,  QD,  CL,  XL,  XL,  BD,  CL,  OU,  RR,  PU,  RR,  BD,  BD,  XR,  QU,  XR,  GL,  BD,  RL,  RL,  OD,  DR,  QU,  CR,  AR,  QU,  RL,  EU,  XL,  EU,  EU,  RR,  QD,  AL,  CL,  OU,  RR,  RR,  BU,  QD,  GR,  QD,  XL,  BU,  DL,  BU,  RL,  RL,  OD,  CR,  BU,  PD,  FL,  HL,  PD,  CR,  EU,  XR,  XR,  PD,  QU,  GL,  FL,  OD,  HL,  OD,  XR,  FL,  XR,  FR, 
+Explored 848 states in 0.538959 seconds
+Solved in 51 moves
+puzzle #37
+moves:  OL,  RU,  RU,  ER,  CD,  BR,  BR,  DU,  GR,  CD,  FU,  QL,  QL,  QL,  CD,  EL,  RD,  OR,  DU,  XR,  XR,  AD,  AD,  AD,  XL,  XL,  DD,  OL,  RU,  ER,  CU,  QR,  QR,  QR,  FD,  CU,  DD,  BL,  BL,  CU,  EL,  RD,  BL,  DU,  OR,  DU,  AD,  EL,  EL,  EL,  XR,  CD,  CD,  XR,  FU,  XR,  DD,  FD,  DD,  BR,  BR,  BR,  DU,  ER,  AU,  AU,  AU,  DU,  AU,  EL,  FU,  QL,  QL,  XL,  XL,  CU,  GL,  RD,  RD,  XL,  FU,  GL,  GL,  GL,  FD,  XR,  CD,  XR,  XR,  FU,  XR,  FD,  CU,  DD,  QR,  CD,  DU, 
+Explored 2157 states in 1.146392 seconds
+Solved in 67 moves
+puzzle #38
+moves:  HR,  RU,  HR,  CD,  AD,  OL,  RU,  ER,  BD,  BD,  IR,  IR,  BD,  EL,  RD,  OR,  AU,  XR,  XR,  XR,  AD,  OL,  RU,  CD,  DR,  ER,  DR,  GU,  GU,  GU,  GU,  DL,  BU,  IL,  FU,  FU,  FU,  DL,  CU,  IL,  IL,  BD,  EL,  RD,  OR,  IL,  GD,  AU,  FU,  XL,  GU,  CD,  XL,  XL,  AD,  CU,  OL,  RU,  ER,  BU,  BU,  BU,  EL,  HL,  RD,  OR,  AU,  CU,  HL,  HL,  HL,  CD,  AD,  OL,  RU,  ER,  BD,  BD,  BD,  EL,  RD,  RD,  OR,  AU,  XR,  XR,  RD,  GD,  XR,  CU,  XR,  GU,  CD, 
+Explored 2034 states in 1.083644 seconds
+Solved in 45 moves
+puzzle #39
+moves:  IR,  ED,  QR,  QR,  CD,  PU,  QR,  FU,  OD,  OD,  AL,  HR,  OD,  CD,  DU,  XL,  BD,  XL,  XL,  DD,  AR,  AR,  AR,  DU,  XR,  XR,  OU,  HL,  CU,  CU,  OU,  FD,  QL,  PD,  AR,  QL,  CU,  OU,  QL,  XL,  EU,  EU,  EU,  EU,  XR,  CD,  QR,  QR,  CD,  CD,  XL,  ED,  AL,  PU,  QR,  OD,  OD,  FU,  HR,  OD,  XL,  DD,  AL,  AL,  AL,  DU,  IL,  XR,  OU,  HL,  EU,  FD,  OU,  XR,  BU,  QL,  GL,  PD,  CU,  CU,  PD,  PD,  XR,  XR,  CD,  CD,  OD, 
+Explored 1494 states in 1.040832 seconds
+Solved in 71 moves

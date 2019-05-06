@@ -1,0 +1,157 @@
+
+puzzle #1
+moves:  XR,  XR,  deleteB,  XR,  deleteC,  XR,  deleteP, 
+Explored 5 states in 0.000281 seconds
+Solved in 7 moves
+puzzle #2
+moves:  XR,  deleteO,  XR,  XR, 
+Explored 4 states in 0.000178 seconds
+Solved in 4 moves
+puzzle #3
+moves:  XR,  deleteP,  XR,  XR, 
+Explored 4 states in 0.000162 seconds
+Solved in 4 moves
+puzzle #4
+moves:  XR,  deleteO,  XR,  deleteQ,  XR,  deleteG, 
+Explored 4 states in 0.000315 seconds
+Solved in 6 moves
+puzzle #5
+moves:  XR,  deleteQ,  XR,  deleteO,  XR,  deleteP, 
+Explored 4 states in 0.000313 seconds
+Solved in 6 moves
+puzzle #6
+moves:  XR,  deleteE,  XR,  XR,  deleteF, 
+Explored 4 states in 0.000232 seconds
+Solved in 5 moves
+puzzle #7
+moves:  XR,  deleteD,  XR,  deleteE,  XR,  deleteC,  XR,  deleteO, 
+Explored 5 states in 0.000277 seconds
+Solved in 8 moves
+puzzle #8
+moves:  XR,  XR,  deleteD,  XR,  deleteO,  XR,  deleteF, 
+Explored 5 states in 0.000500 seconds
+Solved in 7 moves
+puzzle #9
+moves:  XR,  XR,  XR,  deleteO, 
+Explored 4 states in 0.000231 seconds
+Solved in 4 moves
+puzzle #10
+moves:  XR,  deleteP,  XR,  XR, 
+Explored 4 states in 0.000212 seconds
+Solved in 4 moves
+puzzle #11
+moves:  XR,  deleteP,  XR,  XR,  XR,  deleteO, 
+Explored 5 states in 0.000243 seconds
+Solved in 6 moves
+puzzle #12
+moves:  XR,  deleteO, 
+Explored 2 states in 0.000057 seconds
+Solved in 2 moves
+puzzle #13
+moves:  XR,  deleteF,  XR,  deleteG, 
+Explored 3 states in 0.000129 seconds
+Solved in 4 moves
+puzzle #14
+moves:  XR,  deleteO,  XR,  deleteP, 
+Explored 3 states in 0.000152 seconds
+Solved in 4 moves
+puzzle #15
+moves:  XR,  deleteO, 
+Explored 2 states in 0.000051 seconds
+Solved in 2 moves
+puzzle #16
+moves:  XR,  deleteD,  XR,  XR,  XR, 
+Explored 5 states in 0.000276 seconds
+Solved in 5 moves
+puzzle #17
+moves:  XR,  deleteO,  XR,  XR, 
+Explored 4 states in 0.000180 seconds
+Solved in 4 moves
+puzzle #18
+moves:  XR,  deleteJ,  XR, 
+Explored 3 states in 0.000075 seconds
+Solved in 3 moves
+puzzle #19
+moves:  XR,  deleteD,  XR,  deleteC,  XR,  XR,  deleteP, 
+Explored 5 states in 0.000165 seconds
+Solved in 7 moves
+puzzle #20
+moves:  XR,  deleteO,  XR,  XR, 
+Explored 4 states in 0.000098 seconds
+Solved in 4 moves
+puzzle #21
+moves:  XR,  deleteP,  XR,  XR, 
+Explored 4 states in 0.000140 seconds
+Solved in 4 moves
+puzzle #22
+moves:  XR,  deleteP, 
+Explored 2 states in 0.000045 seconds
+Solved in 2 moves
+puzzle #23
+moves:  XR,  deleteE,  XR, 
+Explored 3 states in 0.000084 seconds
+Solved in 3 moves
+puzzle #24
+moves:  XR,  XR,  deleteE,  XR,  deleteO, 
+Explored 4 states in 0.000154 seconds
+Solved in 5 moves
+puzzle #25
+moves:  XR,  deleteC,  XR,  deleteP,  XR,  deleteD, 
+Explored 4 states in 0.000150 seconds
+Solved in 6 moves
+puzzle #26
+moves:  XR,  deleteD,  XR,  deleteO,  XR,  XR,  deleteP, 
+Explored 5 states in 0.000172 seconds
+Solved in 7 moves
+puzzle #27
+moves:  XR,  deleteP,  XR,  XR,  XR, 
+Explored 5 states in 0.000457 seconds
+Solved in 5 moves
+puzzle #28
+moves:  XR,  deleteA,  XR,  XR,  deleteP,  XR,  deleteB, 
+Explored 5 states in 0.000279 seconds
+Solved in 7 moves
+puzzle #29
+moves:  XR,  deleteB,  XR,  XR, 
+Explored 4 states in 0.000279 seconds
+Solved in 4 moves
+puzzle #30
+moves:  XR,  deleteB,  XR,  XR,  deleteP, 
+Explored 4 states in 0.000157 seconds
+Solved in 5 moves
+puzzle #31
+moves:  XR,  deleteO,  XR,  XR,  XR, 
+Explored 5 states in 0.000191 seconds
+Solved in 5 moves
+puzzle #32
+moves:  XR,  deleteR,  XR,  XR,  XR, 
+Explored 5 states in 0.000248 seconds
+Solved in 5 moves
+puzzle #33
+moves:  XR,  XR,  deleteB,  XR,  deleteC,  XR,  deleteP, 
+Explored 5 states in 0.000270 seconds
+Solved in 7 moves
+puzzle #34
+moves:  XR,  deleteO,  XR,  deleteB,  XR,  XR,  deleteP, 
+Explored 5 states in 0.000225 seconds
+Solved in 7 moves
+puzzle #35
+moves:  XR,  XR,  deleteQ, 
+Explored 3 states in 0.000152 seconds
+Solved in 3 moves
+puzzle #36
+moves:  XR,  XR,  deleteO,  XR,  deleteP, 
+Explored 4 states in 0.000197 seconds
+Solved in 5 moves
+puzzle #37
+moves:  XR,  deleteD,  XR,  deleteC,  XR,  XR,  deleteR, 
+Explored 5 states in 0.000300 seconds
+Solved in 7 moves
+puzzle #38
+moves:  XR,  deleteC,  XR,  deleteB,  XR,  XR,  deleteR, 
+Explored 5 states in 0.000240 seconds
+Solved in 7 moves
+puzzle #39
+moves:  XR,  deleteP, 
+Explored 2 states in 0.000057 seconds
+Solved in 2 moves
