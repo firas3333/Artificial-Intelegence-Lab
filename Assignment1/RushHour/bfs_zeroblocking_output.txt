@@ -1,0 +1,157 @@
+
+puzzle #1
+moves: EL, XR, CU, PD, PD, AD, OL, OL, CU, OL, BU, XR, XR, XR
+21320 Nodes visited
+time: 4.297057
+puzzle #2
+moves: OU, PU, OU, AR, BU, CL, AR, PU, PU, AR, OD, OD, OD, XR, BU, BU, BU, XL, OU, OU, OU, AL, AL, AL, OD, OD, OD, XR, XR, PD, PD, PD, XR
+838 Nodes visited
+time: 0.120050
+puzzle #3
+moves: RL, OD, OD, OD, XL, AU, AU, AU, XR, OU, OU, OU, QL, QL, QL, PD, PD, RL, PD, XR, XR, XR
+457 Nodes visited
+time: 0.049496
+puzzle #4
+moves: EL, GD, EL, AR, EL, QD, PU, RL, OD, OD, FL, FL, FL, OD, XR, QD, XR, XR
+2790 Nodes visited
+time: 0.470198
+puzzle #5
+moves: XL, OD, PD, EU, EU, DR, FU, EU, XR, RL, RL, OD, PD, RL, QD, XR, XR, XR
+2974 Nodes visited
+time: 0.468064
+puzzle #6
+moves: CD, FD, DD, BR, BR, EU, XR, AD, AD, AD, XL, ED, BL, BL, CU, DU, BL, EU, XR, XR, XR
+7481 Nodes visited
+time: 1.316896
+puzzle #7
+moves: AL, CU, AL, AL, BL, BL, DU, DU, XR, IU, QL, EU, EU, XR, XR, IU, PL, GL, OD, OD, OD, XR
+951 Nodes visited
+time: 0.159683
+puzzle #8
+moves: OD, XR, PU, PU, PU, QL, DD, DD, XR, AD, XR, EL, FU, BL, CL, FU, XR
+6917 Nodes visited
+time: 1.328072
+puzzle #9
+moves: QR, XR, XR, BD, AR, CL, OU, QR, BD, DR, BD, BD, QL, QL, OD, CR, XL, XL, PU, PU, QL, EU, EU, FL, OD, HL, EU, EU, XR, XR, OD, XR
+4564 Nodes visited
+time: 0.835078
+puzzle #10
+moves: OD, OD, OD, XL, BU, BU, QL, EU, EU, EU, QR, BD, BD, XR, OU, OU, OU, RR, BD, QL, QL, QL, PD, AR, AR, AR, PU, QR, QR, QR, BU, RL, RL, OD, OD, OD, XL, BU, BU, BU, XR, OU, OU, QL, QL, ED, ED, OU, QL, PD, PD, RL, PD, XR, XR, XR
+880 Nodes visited
+time: 0.106205
+puzzle #11
+moves: RR, BR, BR, PU, QL, QL, CU, CU, CU, QR, QR, PD, BL, CU, PD, BL, RR, RR, PD, XR, XR, XR, PU, PU, AD, BL, PU, QL, RL, OD, OD, OD, XR
+1330 Nodes visited
+time: 0.157797
+puzzle #12
+moves: OU, DD, ED, FR, GU, KL, DD, XL, XL, XL, GU, GU, HL, DU, CD, FL, OD, OD, DU, FL, CD, BR, BR, DU, XR, GU, XR, OD, HL, CD, XR, XR
+13502 Nodes visited
+time: 2.632061
+puzzle #13
+moves: DD, ED, XL, XL, BD, JL, GD, AR, AR, AR, BU, XR, XR, EU, EU, EU, XL, DU, DU, DU, XL, HL, HL, IU, IU, JL, JL, JL, ID, XR, XR, FD, XR, XR
+78501 Nodes visited
+time: 15.243587
+puzzle #14
+moves: BR, QD, IR, HR, RD, XL, XL, AL, EU, FU, GL, GL, PD, OD, DR, DR, EU, FU, FU, EU, XR, XR, RU, HL, IL, QU, HL, IL, OD, XR, PD, XR
+550 Nodes visited
+time: 0.167506
+puzzle #15
+moves: PD, EL, FD, DD, DD, XL, XL, XL, PU, GR, GR, FD, CD, EL, PU, BR, PU, QL, QL, CD, CD, CD, QR, FU, QR, GL, GL, PD, PD, PD, XR, XR, XR, PU, PU, PU, QL, OD, OD, OD, XR
+4693 Nodes visited
+time: 0.689151
+puzzle #16
+moves: GU, GU, OR, OR, BL, FU, FU, PU, PU, QR, QR, QR, RR, RR, DD, XR, AD, RR, DD, ER, AD, AD, AD, XL, BL, EL, DU, DU, RL, QL, GD, QL, DU, ER, AU, DU, XR, AU, QL, PD, FD, RL, RL, PD, XR, XR, XR
+2413 Nodes visited
+time: 0.375103
+puzzle #17
+moves: QR, QR, DR, DR, DR, RR, RR, PD, XL, BD, BD, BD, CR, AR, XR, PU, PU, PU, RR, BD, QL, QL, QL, OD, OD, CR, CR, CR, OU, AR, AR, AR, OU, QR, QR, QR, BU, RL, PD, PD, PD, XL, BU, BU, BU, XR, PU, QL, QL, PU, PU, QL, OD, OD, RL, RL, OD, XR, XR, XR
+1710 Nodes visited
+time: 0.218917
+puzzle #18
+moves: DU, EL, DU, XL, XL, AD, BL, JU, FU, OR, OR, EL, AD, AD, XR, XR, DD, AD, ER, BL, BL, ER, DD, DD, DD, XL, XL, EL, EL, AU, AU, AU, ER, OL, AU, XR, XR, ER, DU, DU, OL, FD, XR, XR
+842 Nodes visited
+time: 0.081000
+puzzle #19
+moves: CD, BR, BR, DU, EU, QL, DU, EU, FL, PD, FL, CD, FL, ED, XR, XR, XR, XR
+4580 Nodes visited
+time: 0.716955
+puzzle #20
+moves: QR, QR, PD, PD, XL, BD, BD, BD, XR, BD, PU, QL, QL, PU, AR, PU, QL, OD, AR, AR, AR, OU, QR, QR, PD, PD, QR, BU, RL, PD, XL, RL, BU, BU, BU, XR, PU, PU, RL, PU, QL, QL, QL, OD, OD, OD, XR, XR, XR
+270 Nodes visited
+time: 0.025841
+puzzle #21
+moves: GR, BU, XL, FU, AD, AD, AD, XR, QR, DD, BD, OL, OL, OL, PU, EL, HU, HU, GR, QR, AD, EL, EL, PD, PD, CL, HU, CL, CL, PU, PU, HU, ER, ER, DU, ER, PD, PD, AU, QL, QL, QL, PD, XR, XR, XR
+6020 Nodes visited
+time: 1.058353
+puzzle #22
+moves: QL, QL, DD, EL, PD, OR, AU, XL, XL, XL, AD, OL, PU, ER, DU, DU, FL, QR, QR, QR, CD, AD, BL, BL, DU, EL, BL, AU, EL, EL, DD, PD, EL, CU, QL, PD, PD, OR, AU, CU, FL, FL, DD, FL, CD, XR, XR, XR, XR
+4023 Nodes visited
+time: 0.542951
+puzzle #23
+moves: EU, OR, DD, CU, XL, XL, AD, BL, EU, HR, HR, DD, FL, AD, GU, HR, GU, OR, OR, AD, AD, FR, XR, XR, CD, BL, BL, FR, CD, CD, XL, XL, CD, FL, FL, AU, AU, OL, AU, FR, FR, CU, AU, XR, XR, CU, OL, GD, XR, XR
+8337 Nodes visited
+time: 1.157243
+puzzle #24
+moves: EU, QR, CL, OU, QR, PD, XL, BD, BD, AR, DR, BD, BD, XR, PU, QL, QL, PU, PU, QL, GU, GU, GU, HL, QR, QR, QR, PD, PD, DL, IL, AL, BU, PD, XL, BU, BU, BU, XR, HL, QL, QL, OD, CR, GU, XR, ED, ED, XR, OD, OD, XR
+9190 Nodes visited
+time: 1.805643
+puzzle #25
+moves: DU, GU, OL, ED, RL, CD, CD, XR, AD, HR, OL, PU, CD, RR, RR, AD, OL, AD, XL, AD, RL, RL, CU, HL, GD, CU, CU, RR, RR, RR, FU, AU, EU, CU, XR, AU, AU, HL, HL, HL, FD, RL, RL, PD, PD, PD, XR, DU, XR
+4926 Nodes visited
+time: 0.797810
+puzzle #26
+moves: PU, PU, ER, OD, OD, CR, CR, DU, BR, BR, DU, XR, AD, AD, AD, AD, XL, DD, BL, DD, CL, CL, CL, OU, DU, BL, OU, EL, EL, EL, EL, DD, CR, OD, OD, CR, CR, DU, ER, AU, PD, PD, BL, DU, XR, AU, AU, EL, FU, RL, PD, RL, RL, OD, XR, XR, XR
+3189 Nodes visited
+time: 0.389949
+puzzle #27
+moves: GR, AD, OR, QU, GR, OR, OR, PU, EL, FR, FR, DD, EL, AD, BL, QU, CD, RR, EL, PD, PD, BL, BL, AU, BL, PU, PU, ER, CU, ER, ER, DU, FL, GL, FL, PD, PD, PD, XR, OL, OL, OL, AU, XR, XR, PU, PU, RL, QD, QD, XR
+2400 Nodes visited
+time: 0.363656
+puzzle #28
+moves: OR, BU, ER, GU, GU, GU, EL, FR, RR, FR, HU, RR, CD, DL, AD, AD, XR, RR, AD, DR, CU, CU, CU, CU, XL, DL, AU, AU, AU, FL, FL, RL, HD, ER, GD, GD, RL, RL, GD, EL, EL, PD, PD, OR, OR, PD, AU, XR, XR, XR, AD, OL, BU, XR
+4373 Nodes visited
+time: 0.738191
+puzzle #29
+moves: DR, CR, FR, ER, QU, FR, QU, OD, OD, OD, XL, AD, PL, QU, DR, BD, BD, BD, DL, QD, PR, AU, XR, XR, XR, AD, OU, EL, PL, PL, QU, DR, BU, OU, OU, CL, FL, AD, AD, XL, XL, AD, CR, BU, BU, DL, QD, QD, QD, OD, PL, BU, XR, XR, XR
+1171 Nodes visited
+time: 0.151243
+puzzle #30
+moves: DU, AR, DU, XL, QU, QU, FR, FR, FR, QD, QD, XR, DD, DD, DD, XL, QU, DD, AL, QU, QU, EL, EL, BD, CL, PU, FR, BD, EL, QD, QD, QD, XR, XR, XR, QU, QU, QU, ER, DU, DU, DU, EL, QD, QD, AR, DU, QD, XL, XL, XL, QU, QU, BU, FL, PD, FL, FL, FL, QD, QD, BD, XR, XR, XR, QU, RL, PD, XR
+5333 Nodes visited
+time: 0.747110
+puzzle #31
+moves: HR, DD, EL, OD, OD, PU, PU, BD, CL, PU, FR, KU, HR, HR, OD, XR, HR, KD, FL, PD, CR, BU, XR, XR, OU, OU, OU, ER, DU, DU, DU, EL, OD, OD, OD, AR, DU, XL, XL, XL, OU, BD, CL, PU, FR, KU, HL, HL, HL, KD, FL, HL, OD, XR, PD, PD, CR, BU, XR, XR, PD, XR
+722 Nodes visited
+time: 0.076044
+puzzle #32
+moves: BL, PU, PU, PU, ER, GU, GU, QR, FR, GU, EL, ID, DL, EL, HU, HU, FR, QR, QR, FR, HU, ER, RD, BL, HU, RD, RD, XR, ER, GD, GD, XR, AD, XR, RU, RU, BL, BL, RU, DR, IU, IU, IU, DL, RD, BR, RD, RD, IU, BR, AU, XL, XL, XL, GU, FL, RU, RU, FL, FL, FL, GD, RD, RD, XR, XR, XR, RU, QL, QL, QL, GD, EL, PD, PD, PD, XR
+4303 Nodes visited
+time: 0.634073
+puzzle #33
+moves: RL, RL, CU, PU, XR, AD, RL, BU, HR, DD, QR, QR, QR, EU, IR, AD, AD, AD, XL, EU, EU, QL, QL, QL, DU, DU, FL, FL, FL, DD, DD, QR, QR, AU, IL, PD, BD, RR, RR, RR, EU, XR, AU, FL, AU, AU, XL, ED, RL, RL, CU, PU, QR, ED, ED, XR, AD, RL, BU, XR, XR, ED, QL, QL, QL, DU, HL, PD, PD, PD, XR
+4435 Nodes visited
+time: 0.762093
+puzzle #34
+moves: GR, KD, QL, FU, FU, FU, EU, PD, AR, BU, EU, DR, DR, DR, ED, ED, QR, QR, BD, AL, PU, QR, OD, OD, KU, GL, OD, XR, KU, KU, KU, XL, OU, OU, OU, QL, QL, QL, EU, PD, AR, BU, EU, DL, DL, DL, DL, ED, ED, QR, QR, BD, AL, PU, QR, OD, OD, OD, AL, FU, XR, KD, AL, BU, XR, XR, AL, OU, OU, OU, QL, PD, PD, PD, XR
+4419 Nodes visited
+time: 0.690535
+puzzle #35
+moves: XR, CR, DD, RR, RR, OD, PL, AL, QU, RR, EU, GR, EU, EU, RL, QD, AR, PR, OU, RL, RL, DU, GR, GR, GR, DD, RR, RR, BD, BD, BD, OD, PL, AL, QU, RR, ED, ED, XL, XL, ED, RL, QD, AR, PR, OU, RL, RL, DU, DU, FL, QD, GL, QD, CR, DU, RR, OD, PL, DU, XR, XR, XR
+3657 Nodes visited
+time: 0.651041
+puzzle #36
+moves: GR, QD, XL, BD, CL, CL, PU, OU, RR, RR, BD, DR, BD, XR, QU, QU, GL, BD, RL, RL, OD, CR, AR, QU, RL, EU, EU, FL, HL, EU, RR, QD, QD, DL, AL, CL, OU, RR, RR, BU, GR, QD, XL, BU, FL, BU, RL, RL, OD, OD, CR, BU, XR, QU, GL, HL, OD, PD, CR, EU, XR, XR, PD, PD, XR
+1961 Nodes visited
+time: 0.359316
+puzzle #37
+moves: OL, RU, RU, GR, ER, CD, CD, BR, BR, DU, FU, QL, QL, QL, CD, EL, RD, OR, DU, XR, AD, AD, AD, XL, DD, OL, RU, ER, CU, QR, AD, CU, GL, QR, QR, FD, DD, BL, BL, CU, EL, RD, RD, BL, OR, DU, EL, EL, CD, EL, DD, BR, BR, BR, DU, ER, AU, DU, XR, AU, AU, AU, XL, EL, FU, FU, QL, GL, GL, GL, FD, CD, RD, XR, XR, XR, XR
+4509 Nodes visited
+time: 0.683651
+puzzle #38
+moves: RU, IR, IR, HR, HR, CD, AD, CD, OL, RU, DR, FU, ER, BD, BD, BD, EL, RD, OR, AU, XR, XR, XR, AD, OL, RU, FU, FU, FU, ER, DR, GU, GU, GU, GU, DL, EL, RD, DL, CU, OR, AU, XL, XL, XL, AD, OL, RU, ER, BU, IL, IL, IL, BU, HL, BU, EL, RD, OR, AU, CU, HL, HL, HL, CD, AD, OL, RU, ER, BD, BD, BD, EL, RD, RD, RD, OR, AU, XR, XR, XR, XR
+4643 Nodes visited
+time: 0.689174
+puzzle #39
+moves: IR, ED, PU, QR, QR, QR, FU, CD, HR, CD, OD, OD, AL, DU, XL, XL, BD, OD, XL, DD, AR, AR, AR, DU, XR, XR, CU, CU, OU, HL, CU, XL, FD, OU, QL, QL, OU, QL, EU, EU, GL, IL, EU, QR, QR, OD, OD, PD, AR, EU, XR, CD, CD, CD, XL, ED, AL, PU, QR, FU, HR, OD, XL, DD, AL, BU, AL, AL, EU, DU, XR, XR, XR, OU, HL, FD, QL, PD, PD, PD, XR
+3539 Nodes visited
+time: 0.605980
