@@ -1,0 +1,9 @@
+-Heuristic blocking: 
+
+python mainrh.py  input.txt blocking 
+
+Heuristic ZERO: 
+
+
+python mainrh.py  input.txt zero time
+ Time= 0.6(to make it hard) 10000(to solve everything)
